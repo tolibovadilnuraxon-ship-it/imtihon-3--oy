@@ -11,4 +11,5 @@ pyplot.ylabel("Daromad")
 
 pyplot.legend()
 pyplot.grid(True)
+pyplot.savefig("daromad.png")
 pyplot.show()
